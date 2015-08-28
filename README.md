@@ -2,7 +2,7 @@ This is the order of the videos I will work on
 <ol>
    <li> HTLM5 and CSS Fundamentals
       <ul>
-         <li>https://www.youtube.com/watch?v=4Oggpc9gl5g (1:14:44)</li>
+         <li>https://www.youtube.com/watch?v=4Oggpc9gl5g (1:45:18)</li>
          <li>https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners</li>
       </ul>
    </li>
