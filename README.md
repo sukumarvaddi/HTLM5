@@ -2,7 +2,7 @@ This is the order of the videos I will work on
 <ol>
    <li> HTLM5 and CSS Fundamentals
       <ul>
-         <li><a href='https://www.youtube.com/watch?v=4Oggpc9gl5g' target="_blank">HTML5 and CSS Fundamentals(5:22:20)</a> </li>
+         <li><a href='https://www.youtube.com/watch?v=4Oggpc9gl5g' target="_blank">HTML5 and CSS Fundamentals</a> </li>
          <li><a href="https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners" target="_blank">HTML5 and CSS Fundamentas on MSDN Channel</a></li>
       </ul>
    </li>
